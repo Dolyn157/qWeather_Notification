@@ -1,4 +1,4 @@
-const counter = document.getElementById('counter')
+
 
 window.electronAPI.onUpdateWeather((value) => {
 
@@ -9,6 +9,11 @@ window.electronAPI.onUpdateWeather((value) => {
     const text = value.now.text
 
     new window.Notification(Noti_Title, { body: `"采样时间": ${obsTime}, "\n温度℃": ${temp}, "\n天气状况": ${text}`})
+})
+
+window.electronAPI.onLoadComplete((value) => {
+    const apiKey= localStorage.getItem('apiKey')
+    window.electronAPI.api_key(apiKey)
 })
 
 document.getElementById('submit1').onclick = () =>{

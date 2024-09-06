@@ -50,6 +50,9 @@ function createWindow () {
 
     mainWindow.loadFile('index.html')
 
+    mainWindow.webContents.on('did-finish-load', () => {
+        mainWindow.webContents.send('load-complete')
+    })
     // Open the DevTools.
     mainWindow.webContents.openDevTools()
 }
@@ -65,6 +68,5 @@ ipcMain.on('city-id', (_event, value)=> {
 
 ipcMain.on('api-key', (_event, value) => {
     APIKey = value
-
     console.log(value)
 })
