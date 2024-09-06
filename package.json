@@ -1,0 +1,19 @@
+{
+  "name": "my-third-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Gwyndolin",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^32.0.2"
+  },
+  "dependencies": {
+    "electron-localstorage": "^1.0.5",
+    "node-schedule": "^2.1.1"
+  }
+}
