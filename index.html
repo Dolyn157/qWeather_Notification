@@ -1,22 +1,27 @@
 <!DOCTYPE html>
-<html>
+<html lang="zh-CN">
+
 <head>
     <meta charset="UTF-8">
     <!-- https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP -->
     <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'">
     <title>Menu Counter</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
+
 <body>
-朵琳消息提醒小助手: <strong id="counter">0</strong>
-<br />
-<label for="city">城市：</label><input id="city">
+    朵琳消息提醒小助手: <strong id="counter">0</strong>
+    <br />
 
-<button id="submit1">确定</button>
-<br />
-<label for="apikey">你的和风天气APIKey：</label><input id="apikey">
-<button id="submit2">确定</button>
-<script src="./renderer.js"></script>
+    <label for="city">城市：</label><input id="city">
+    <button id="submit1">确定</button>
+    <br />
+
+    <label for="apikey">你的和风天气APIKey：</label>
+    <input id="apikey">
+    <button id="submit2">确定</button>
+
+    <script src="./src/renderer.js"></script>
 </body>
-</html>
 
-//十一月8日
+</html>

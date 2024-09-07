@@ -1,7 +1,4 @@
-
-
 window.electronAPI.onUpdateWeather((value) => {
-
     const Noti_Title = '和风天气提醒您天气：\n'
 
     const obsTime = value.now.obsTime
