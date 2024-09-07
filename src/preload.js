@@ -1,4 +1,4 @@
-import { contextBridge, ipcRenderer } from 'electron/renderer'
+const { contextBridge, ipcRenderer } = require('electron/renderer')
 
 contextBridge.exposeInMainWorld('electronAPI', {
     onUpdateWeather: (callback) => ipcRenderer.on('update-weather', (_event, value) => callback(value)),
