@@ -1,7 +1,8 @@
-import { app, BrowserWindow, ipcMain } from 'electron/main'
+﻿import { app, BrowserWindow, ipcMain } from 'electron/main'
+import { dialog } from 'electron'
 import schedule from 'node-schedule'
 import path from 'node:path'
-
+import {cityMap} from './utils.js'
 
 
 const QWetherBaseURL = "https://devapi.qweather.com/v7/weather/now?"
@@ -73,8 +74,20 @@ app.whenReady().then(createWindow)
 
 //开启监听渲染进程发过来的信息
 ipcMain.on('city-id', (_event, value) => {
-    cityID = value
-
+    if (!cityMap[value]){
+        dialog.showMessageBox({
+            type:'info',
+            title: '提示',
+            message: '在字典中找不到该城市',
+            buttons:['ok']
+        },(index) => {
+            if ( index == 0 ) {
+                console.log('You click ok.');
+            }
+        })
+        }else{
+            cityID = cityMap[value]
+        }
     console.log(value)
 })
 

@@ -1,3 +1,7 @@
 #dependencies
 keys.txt
 /node_modules
+
+#Don't Upload
+/question.js
+/.idea

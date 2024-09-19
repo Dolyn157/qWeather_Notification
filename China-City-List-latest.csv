@@ -1,0 +1,431 @@
+Location_ID,Location_Name_EN,Location_Name_ZH,ISO_3166_1,Country_Region_EN,Country_Region_ZH,Adm1_Name_EN,Adm1_Name_ZH,Adm2_Name_EN,Adm2_Name_ZH,Timezone,Latitude,Longitude,AD_code
+101010100,Beijing,北京,CN,China,中国,Beijing,北京市,Beijing,北京市,Asia/Shanghai,39.9050,116.4053,110000
+101010200,Haidian,海淀,CN,China,中国,Beijing,北京市,Beijing,北京市,Asia/Shanghai,39.9561,116.3103,110108
+101010300,Chaoyang,朝阳,CN,China,中国,Beijing,北京市,Beijing,北京市,Asia/Shanghai,39.9215,116.4864,110105
+101010400,Shunyi,顺义,CN,China,中国,Beijing,北京市,Beijing,北京市,Asia/Shanghai,40.1289,116.6535,110113
+101010500,Huairou,怀柔,CN,China,中国,Beijing,北京市,Beijing,北京市,Asia/Shanghai,40.3243,116.6371,110116
+101010600,Tongzhou,通州,CN,China,中国,Beijing,北京市,Beijing,北京市,Asia/Shanghai,39.9025,116.6586,110112
+101010700,Changping,昌平,CN,China,中国,Beijing,北京市,Beijing,北京市,Asia/Shanghai,40.2181,116.2359,110114
+101010800,Yanqing,延庆,CN,China,中国,Beijing,北京市,Beijing,北京市,Asia/Shanghai,40.4653,115.9850,110119
+101010900,Fengtai,丰台,CN,China,中国,Beijing,北京市,Beijing,北京市,Asia/Shanghai,39.8636,116.2870,110106
+101011000,Shijingshan,石景山,CN,China,中国,Beijing,北京市,Beijing,北京市,Asia/Shanghai,39.9146,116.1954,110107
+101011100,Daxing,大兴,CN,China,中国,Beijing,北京市,Beijing,北京市,Asia/Shanghai,39.7289,116.3380,110115
+101011200,Fangshan,房山,CN,China,中国,Beijing,北京市,Beijing,北京市,Asia/Shanghai,39.7355,116.1392,110111
+101011300,Miyun,密云,CN,China,中国,Beijing,北京市,Beijing,北京市,Asia/Shanghai,40.3774,116.8434,110118
+101011400,Mentougou,门头沟,CN,China,中国,Beijing,北京市,Beijing,北京市,Asia/Shanghai,39.9372,116.1054,110109
+101011500,Pinggu,平谷,CN,China,中国,Beijing,北京市,Beijing,北京市,Asia/Shanghai,40.1448,117.1123,110117
+101011600,Dongcheng,东城,CN,China,中国,Beijing,北京市,Beijing,北京市,Asia/Shanghai,39.9175,116.4188,110101
+101011700,Xicheng,西城,CN,China,中国,Beijing,北京市,Beijing,北京市,Asia/Shanghai,39.9153,116.3668,110102
+101020100,Shanghai,上海,CN,China,中国,Shanghai,上海市,Shanghai,上海市,Asia/Shanghai,31.2317,121.4726,310000
+101020200,Minhang,闵行,CN,China,中国,Shanghai,上海市,Shanghai,上海市,Asia/Shanghai,31.1117,121.3760,310112
+101020300,Baoshan,宝山,CN,China,中国,Shanghai,上海市,Shanghai,上海市,Asia/Shanghai,31.3989,121.4899,310113
+101020400,Huangpu,黄浦,CN,China,中国,Shanghai,上海市,Shanghai,上海市,Asia/Shanghai,31.2228,121.4903,310101
+101020500,Jiading,嘉定,CN,China,中国,Shanghai,上海市,Shanghai,上海市,Asia/Shanghai,31.3835,121.2503,310114
+101020600,Pudong,浦东新区,CN,China,中国,Shanghai,上海市,Shanghai,上海市,Asia/Shanghai,31.2459,121.5677,310115
+101020700,Jinshan,金山,CN,China,中国,Shanghai,上海市,Shanghai,上海市,Asia/Shanghai,30.7247,121.3307,310116
+101020800,Qingpu,青浦,CN,China,中国,Shanghai,上海市,Shanghai,上海市,Asia/Shanghai,31.1512,121.1130,310118
+101020900,Songjiang,松江,CN,China,中国,Shanghai,上海市,Shanghai,上海市,Asia/Shanghai,31.0305,121.2235,310117
+101021000,Fengxian,奉贤,CN,China,中国,Shanghai,上海市,Shanghai,上海市,Asia/Shanghai,30.9123,121.4585,310120
+101021100,Chongming,崇明,CN,China,中国,Shanghai,上海市,Shanghai,上海市,Asia/Shanghai,31.6269,121.3975,310151
+101021200,Xuhui,徐汇,CN,China,中国,Shanghai,上海市,Shanghai,上海市,Asia/Shanghai,31.1800,121.4375,310104
+101021300,Changning,长宁,CN,China,中国,Shanghai,上海市,Shanghai,上海市,Asia/Shanghai,31.2181,121.4222,310105
+101021400,Jing'an,静安,CN,China,中国,Shanghai,上海市,Shanghai,上海市,Asia/Shanghai,31.2290,121.4482,310106
+101021500,Putuo,普陀,CN,China,中国,Shanghai,上海市,Shanghai,上海市,Asia/Shanghai,31.2417,121.3925,310107
+101021600,Hongkou,虹口,CN,China,中国,Shanghai,上海市,Shanghai,上海市,Asia/Shanghai,31.2610,121.4918,310109
+101021700,Yangpu,杨浦,CN,China,中国,Shanghai,上海市,Shanghai,上海市,Asia/Shanghai,31.2708,121.5228,310110
+101030100,Tianjin,天津,CN,China,中国,Tianjin,天津市,Tianjin,天津市,Asia/Shanghai,39.1256,117.1902,120000
+101030200,Wuqing,武清,CN,China,中国,Tianjin,天津市,Tianjin,天津市,Asia/Shanghai,39.3769,117.0580,120114
+101030300,Baodi,宝坻,CN,China,中国,Tianjin,天津市,Tianjin,天津市,Asia/Shanghai,39.7170,117.3081,120115
+101030400,Dongli,东丽,CN,China,中国,Tianjin,天津市,Tianjin,天津市,Asia/Shanghai,39.0878,117.3140,120110
+101030500,Xiqing,西青,CN,China,中国,Tianjin,天津市,Tianjin,天津市,Asia/Shanghai,39.1394,117.0122,120111
+101030600,Beichen,北辰,CN,China,中国,Tianjin,天津市,Tianjin,天津市,Asia/Shanghai,39.2256,117.1348,120113
+101030700,Ninghe,宁河,CN,China,中国,Tianjin,天津市,Tianjin,天津市,Asia/Shanghai,39.3289,117.8283,120117
+101030800,Heping,和平,CN,China,中国,Tianjin,天津市,Tianjin,天津市,Asia/Shanghai,39.1183,117.1959,120101
+101030900,Jinghai,静海,CN,China,中国,Tianjin,天津市,Tianjin,天津市,Asia/Shanghai,38.9357,116.9253,120118
+101031000,Jinnan,津南,CN,China,中国,Tianjin,天津市,Tianjin,天津市,Asia/Shanghai,38.9370,117.3567,120112
+101031100,Binhai,滨海新区,CN,China,中国,Tianjin,天津市,Tianjin,天津市,Asia/Shanghai,39.0328,117.6542,120116
+101031200,Hedong,河东,CN,China,中国,Tianjin,天津市,Tianjin,天津市,Asia/Shanghai,39.1221,117.2266,120102
+101031300,Hexi,河西,CN,China,中国,Tianjin,天津市,Tianjin,天津市,Asia/Shanghai,39.1019,117.2175,120103
+101031400,Jizhou,蓟州,CN,China,中国,Tianjin,天津市,Tianjin,天津市,Asia/Shanghai,40.0453,117.4074,120119
+101031500,Nankai,南开,CN,China,中国,Tianjin,天津市,Tianjin,天津市,Asia/Shanghai,39.1205,117.1641,120104
+101031600,Hebei,河北,CN,China,中国,Tianjin,天津市,Tianjin,天津市,Asia/Shanghai,39.1566,117.2016,120105
+101031700,Hongqiao,红桥,CN,China,中国,Tianjin,天津市,Tianjin,天津市,Asia/Shanghai,39.1751,117.1633,120106
+101040100,Chongqing,重庆,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,29.5638,106.5505,500000
+101040200,Yongchuan,永川,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,29.3487,105.8947,500118
+101040300,Hechuan,合川,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,29.9910,106.2656,500117
+101040400,Nanchuan,南川,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,29.1566,107.0982,500119
+101040500,Jiangjin,江津,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,29.2834,106.2532,500116
+101040700,Yu Bei,渝北,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,29.7181,106.6312,500112
+101040800,Beibei,北碚,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,29.8254,106.4379,500109
+101040900,Banan,巴南,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,29.3819,106.5194,500113
+101041000,Changshou,长寿,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,29.8337,107.0749,500115
+101041100,Qianjiang,黔江,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,29.5275,108.7826,500114
+101041200,Yuzhong,渝中,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,29.5567,106.5629,500103
+101041300,Wanzhou,万州,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,30.8078,108.3802,500101
+101041400,Fuling,涪陵,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,29.7525,107.2465,500102
+101041600,Chengkou,城口,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,31.9463,108.6649,500229
+101041700,Yunyang,云阳,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,30.9305,108.6977,500235
+101041800,Wuxi,巫溪,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,31.3986,109.5700,500238
+101041900,Fengjie,奉节,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,31.0185,109.4011,500236
+101042000,Wushan,巫山,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,31.0748,109.8789,500237
+101042100,Tongnan,潼南,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,30.1896,105.8418,500152
+101042200,Dianjiang,垫江,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,30.3300,107.3487,500231
+101042300,Liangping,梁平,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,30.6722,107.8000,500155
+101042400,Zhong County,忠县,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,30.2915,108.0375,500233
+101042500,Shizhu,石柱,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,29.9993,108.1141,500240
+101042600,Dazu,大足,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,29.7005,105.7153,500111
+101042700,Rongchang,荣昌,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,29.4036,105.5941,500153
+101042800,Tongliang,铜梁,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,29.8399,106.0549,500151
+101042900,Bishan,璧山,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,29.5936,106.2311,500120
+101043000,Fengdu,丰都,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,29.8664,107.7325,500230
+101043100,Wulong,武隆,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,29.3238,107.7566,500156
+101043200,Pengshui,彭水,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,29.2939,108.1666,500243
+101043300,Qijiang,綦江,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,29.0281,106.6514,500110
+101043400,Youyang,酉阳,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,28.8398,108.7672,500242
+101043500,Dadukou,大渡口,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,29.4810,106.4861,500104
+101043600,Xiushan,秀山,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,28.4448,108.9960,500241
+101043700,Jiangbei,江北,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,29.5754,106.5328,500105
+101043800,Shapingba,沙坪坝,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,29.5412,106.4542,500106
+101043900,Jiulongpo,九龙坡,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,29.5235,106.4810,500107
+101044000,Nan'an,南岸,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,29.5011,106.6443,500108
+101044100,Kaizhou,开州,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,31.1677,108.4133,500154
+101050101,Harbin,哈尔滨,CN,China,中国,Heilongjiang,黑龙江省,Harbin,哈尔滨市,Asia/Shanghai,45.8030,126.5351,230100
+101050102,Shuangcheng,双城,CN,China,中国,Heilongjiang,黑龙江省,Harbin,哈尔滨市,Asia/Shanghai,45.3779,126.3088,230113
+101050103,Hulan,呼兰,CN,China,中国,Heilongjiang,黑龙江省,Harbin,哈尔滨市,Asia/Shanghai,45.8896,126.5877,230111
+101050104,Acheng,阿城,CN,China,中国,Heilongjiang,黑龙江省,Harbin,哈尔滨市,Asia/Shanghai,45.5384,126.9727,230112
+101050105,Bin County,宾县,CN,China,中国,Heilongjiang,黑龙江省,Harbin,哈尔滨市,Asia/Shanghai,45.7594,127.4859,230125
+101050106,Yilan,依兰,CN,China,中国,Heilongjiang,黑龙江省,Harbin,哈尔滨市,Asia/Shanghai,46.3151,129.5656,230123
+101050107,Bayan,巴彦,CN,China,中国,Heilongjiang,黑龙江省,Harbin,哈尔滨市,Asia/Shanghai,46.0819,127.4036,230126
+101050108,Tonghe,通河,CN,China,中国,Heilongjiang,黑龙江省,Harbin,哈尔滨市,Asia/Shanghai,45.9776,128.7478,230128
+101050109,Fangzheng,方正,CN,China,中国,Heilongjiang,黑龙江省,Harbin,哈尔滨市,Asia/Shanghai,45.8395,128.8361,230124
+101050110,Yanshou,延寿,CN,China,中国,Heilongjiang,黑龙江省,Harbin,哈尔滨市,Asia/Shanghai,45.4556,128.3319,230129
+101050111,Shangzhi,尚志,CN,China,中国,Heilongjiang,黑龙江省,Harbin,哈尔滨市,Asia/Shanghai,45.2150,127.9685,230183
+101050112,Wuchang,五常,CN,China,中国,Heilongjiang,黑龙江省,Harbin,哈尔滨市,Asia/Shanghai,44.9194,127.1576,230184
+101050113,Mulan,木兰,CN,China,中国,Heilongjiang,黑龙江省,Harbin,哈尔滨市,Asia/Shanghai,45.9498,128.0427,230127
+101050114,Daoli,道里,CN,China,中国,Heilongjiang,黑龙江省,Harbin,哈尔滨市,Asia/Shanghai,45.7620,126.6125,230102
+101050115,Nangang,南岗,CN,China,中国,Heilongjiang,黑龙江省,Harbin,哈尔滨市,Asia/Shanghai,45.7560,126.6521,230103
+101050116,Daowai,道外,CN,China,中国,Heilongjiang,黑龙江省,Harbin,哈尔滨市,Asia/Shanghai,45.7845,126.6488,230104
+101050117,Pingfang,平房,CN,China,中国,Heilongjiang,黑龙江省,Harbin,哈尔滨市,Asia/Shanghai,45.6056,126.6293,230108
+101050118,Songbei,松北,CN,China,中国,Heilongjiang,黑龙江省,Harbin,哈尔滨市,Asia/Shanghai,45.8147,126.5631,230109
+101050119,Xiangfang,香坊,CN,China,中国,Heilongjiang,黑龙江省,Harbin,哈尔滨市,Asia/Shanghai,45.7131,126.6670,230110
+101050201,Qiqihar,齐齐哈尔,CN,China,中国,Heilongjiang,黑龙江省,Qiqihar,齐齐哈尔市,Asia/Shanghai,47.3421,123.9579,230200
+101050202,Nehe,讷河,CN,China,中国,Heilongjiang,黑龙江省,Qiqihar,齐齐哈尔市,Asia/Shanghai,48.4811,124.8822,230281
+101050203,Longjiang,龙江,CN,China,中国,Heilongjiang,黑龙江省,Qiqihar,齐齐哈尔市,Asia/Shanghai,47.3364,123.1872,230221
+101050204,Gannan Prefecture,甘南,CN,China,中国,Heilongjiang,黑龙江省,Qiqihar,齐齐哈尔市,Asia/Shanghai,47.9178,123.5060,230225
+101050205,Fuyu,富裕,CN,China,中国,Heilongjiang,黑龙江省,Qiqihar,齐齐哈尔市,Asia/Shanghai,47.7972,124.4691,230227
+101050206,Yi'an,依安,CN,China,中国,Heilongjiang,黑龙江省,Qiqihar,齐齐哈尔市,Asia/Shanghai,47.8901,125.3076,230223
+101050207,Baiquan,拜泉,CN,China,中国,Heilongjiang,黑龙江省,Qiqihar,齐齐哈尔市,Asia/Shanghai,47.6074,126.0919,230231
+101050208,Keshan,克山,CN,China,中国,Heilongjiang,黑龙江省,Qiqihar,齐齐哈尔市,Asia/Shanghai,48.0343,125.8744,230229
+101050209,Kedong,克东,CN,China,中国,Heilongjiang,黑龙江省,Qiqihar,齐齐哈尔市,Asia/Shanghai,48.0373,126.2491,230230
+101050210,Tailai,泰来,CN,China,中国,Heilongjiang,黑龙江省,Qiqihar,齐齐哈尔市,Asia/Shanghai,46.3923,123.4195,230224
+101050211,Longsha,龙沙,CN,China,中国,Heilongjiang,黑龙江省,Qiqihar,齐齐哈尔市,Asia/Shanghai,47.3417,123.9573,230202
+101050212,Jianhua,建华,CN,China,中国,Heilongjiang,黑龙江省,Qiqihar,齐齐哈尔市,Asia/Shanghai,47.3545,123.9559,230203
+101050213,Tiefeng,铁锋,CN,China,中国,Heilongjiang,黑龙江省,Qiqihar,齐齐哈尔市,Asia/Shanghai,47.3395,123.9736,230204
+101050214,Ang'angxi,昂昂溪,CN,China,中国,Heilongjiang,黑龙江省,Qiqihar,齐齐哈尔市,Asia/Shanghai,47.1569,123.8132,230205
+101050215,Fulaerji,富拉尔基,CN,China,中国,Heilongjiang,黑龙江省,Qiqihar,齐齐哈尔市,Asia/Shanghai,47.2070,123.6389,230206
+101050216,Nianzishan,碾子山,CN,China,中国,Heilongjiang,黑龙江省,Qiqihar,齐齐哈尔市,Asia/Shanghai,47.5140,122.8880,230207
+101050217,Meilisi Daur,梅里斯,CN,China,中国,Heilongjiang,黑龙江省,Qiqihar,齐齐哈尔市,Asia/Shanghai,47.3111,123.7546,230208
+101050301,Mudanjiang,牡丹江,CN,China,中国,Heilongjiang,黑龙江省,Mudanjiang,牡丹江市,Asia/Shanghai,44.5830,129.6186,231000
+101050302,Hailin,海林,CN,China,中国,Heilongjiang,黑龙江省,Mudanjiang,牡丹江市,Asia/Shanghai,44.5742,129.3879,231083
+101050303,Muling,穆棱,CN,China,中国,Heilongjiang,黑龙江省,Mudanjiang,牡丹江市,Asia/Shanghai,44.9197,130.5271,231085
+101050304,Linkou,林口,CN,China,中国,Heilongjiang,黑龙江省,Mudanjiang,牡丹江市,Asia/Shanghai,45.2866,130.2684,231025
+101050305,Suifenhe,绥芬河,CN,China,中国,Heilongjiang,黑龙江省,Mudanjiang,牡丹江市,Asia/Shanghai,44.3969,131.1649,231081
+101050306,Ning'an,宁安,CN,China,中国,Heilongjiang,黑龙江省,Mudanjiang,牡丹江市,Asia/Shanghai,44.3468,129.4700,231084
+101050307,Dongning,东宁,CN,China,中国,Heilongjiang,黑龙江省,Mudanjiang,牡丹江市,Asia/Shanghai,44.0636,131.1253,231086
+101050308,Dong'an,东安,CN,China,中国,Heilongjiang,黑龙江省,Mudanjiang,牡丹江市,Asia/Shanghai,44.5813,129.6267,231002
+101050309,Yangming,阳明,CN,China,中国,Heilongjiang,黑龙江省,Mudanjiang,牡丹江市,Asia/Shanghai,44.5963,129.6346,231003
+101050310,Aimin,爱民,CN,China,中国,Heilongjiang,黑龙江省,Mudanjiang,牡丹江市,Asia/Shanghai,44.5954,129.6012,231004
+101050311,Xi'an,西安,CN,China,中国,Heilongjiang,黑龙江省,Mudanjiang,牡丹江市,Asia/Shanghai,44.5810,129.6131,231005
+101050401,Jiamusi,佳木斯,CN,China,中国,Heilongjiang,黑龙江省,Jiamusi,佳木斯市,Asia/Shanghai,46.8096,130.3616,230800
+101050402,Tangyuan,汤原,CN,China,中国,Heilongjiang,黑龙江省,Jiamusi,佳木斯市,Asia/Shanghai,46.7300,129.9045,230828
+101050403,Fuyuan,抚远,CN,China,中国,Heilongjiang,黑龙江省,Jiamusi,佳木斯市,Asia/Shanghai,48.3647,134.2945,230883
+101050404,Huachuan,桦川,CN,China,中国,Heilongjiang,黑龙江省,Jiamusi,佳木斯市,Asia/Shanghai,47.0230,130.7237,230826
+101050405,Huanan,桦南,CN,China,中国,Heilongjiang,黑龙江省,Jiamusi,佳木斯市,Asia/Shanghai,46.2401,130.5701,230822
+101050406,Tongjiang,同江,CN,China,中国,Heilongjiang,黑龙江省,Jiamusi,佳木斯市,Asia/Shanghai,47.6511,132.5101,230881
+101050407,Fujin,富锦,CN,China,中国,Heilongjiang,黑龙江省,Jiamusi,佳木斯市,Asia/Shanghai,47.2507,132.0379,230882
+101050408,Xiangyang,向阳,CN,China,中国,Heilongjiang,黑龙江省,Jiamusi,佳木斯市,Asia/Shanghai,46.8096,130.3618,230803
+101050409,Qianjin,前进,CN,China,中国,Heilongjiang,黑龙江省,Jiamusi,佳木斯市,Asia/Shanghai,46.8123,130.3777,230804
+101050410,Dongfeng,东风,CN,China,中国,Heilongjiang,黑龙江省,Jiamusi,佳木斯市,Asia/Shanghai,46.8225,130.4033,230805
+101050411,Jiaoqu,郊区,CN,China,中国,Heilongjiang,黑龙江省,Jiamusi,佳木斯市,Asia/Shanghai,46.8071,130.3516,230811
+101050501,Suihua,绥化,CN,China,中国,Heilongjiang,黑龙江省,Suihua,绥化市,Asia/Shanghai,46.6374,126.9929,231200
+101050502,Zhaodong,肇东,CN,China,中国,Heilongjiang,黑龙江省,Suihua,绥化市,Asia/Shanghai,46.0695,125.9914,231282
+101050503,Anda,安达,CN,China,中国,Heilongjiang,黑龙江省,Suihua,绥化市,Asia/Shanghai,46.4106,125.3299,231281
+101050504,Hailun,海伦,CN,China,中国,Heilongjiang,黑龙江省,Suihua,绥化市,Asia/Shanghai,47.4604,126.9694,231283
+101050505,Mingshui,明水,CN,China,中国,Heilongjiang,黑龙江省,Suihua,绥化市,Asia/Shanghai,47.1835,125.9075,231225
+101050506,Wangkui,望奎,CN,China,中国,Heilongjiang,黑龙江省,Suihua,绥化市,Asia/Shanghai,46.8335,126.4842,231221
+101050507,Lanxi,兰西,CN,China,中国,Heilongjiang,黑龙江省,Suihua,绥化市,Asia/Shanghai,46.2590,126.2893,231222
+101050508,Qinggang,青冈,CN,China,中国,Heilongjiang,黑龙江省,Suihua,绥化市,Asia/Shanghai,46.6866,126.1123,231223
+101050509,Qing'an,庆安,CN,China,中国,Heilongjiang,黑龙江省,Suihua,绥化市,Asia/Shanghai,46.8792,127.5100,231224
+101050510,Suiling,绥棱,CN,China,中国,Heilongjiang,黑龙江省,Suihua,绥化市,Asia/Shanghai,47.2472,127.1111,231226
+101050511,Beilin,北林,CN,China,中国,Heilongjiang,黑龙江省,Suihua,绥化市,Asia/Shanghai,46.6349,126.9907,231202
+101050601,Heihe,黑河,CN,China,中国,Heilongjiang,黑龙江省,Heihe,黑河市,Asia/Shanghai,50.2496,127.4990,231100
+101050602,Nenjiang,嫩江,CN,China,中国,Heilongjiang,黑龙江省,Heihe,黑河市,Asia/Shanghai,49.1775,125.2299,231183
+101050603,Sunwu,孙吴,CN,China,中国,Heilongjiang,黑龙江省,Heihe,黑河市,Asia/Shanghai,49.4239,127.3273,231124
+101050604,Xunke,逊克,CN,China,中国,Heilongjiang,黑龙江省,Heihe,黑河市,Asia/Shanghai,49.5830,128.4762,231123
+101050605,Wudalianchi,五大连池,CN,China,中国,Heilongjiang,黑龙江省,Heihe,黑河市,Asia/Shanghai,48.5127,126.1977,231182
+101050606,Bei'an,北安,CN,China,中国,Heilongjiang,黑龙江省,Heihe,黑河市,Asia/Shanghai,48.2454,126.5087,231181
+101050607,Aihui,爱辉,CN,China,中国,Heilongjiang,黑龙江省,Heihe,黑河市,Asia/Shanghai,50.2490,127.4976,231102
+101050701,Daxing'anling Prefecture,大兴安岭,CN,China,中国,Heilongjiang,黑龙江省,Daxing'anling Prefecture,大兴安岭地区,Asia/Shanghai,50.4113,124.1179,232700
+101050702,Tahe,塔河,CN,China,中国,Heilongjiang,黑龙江省,Daxing'anling Prefecture,大兴安岭地区,Asia/Shanghai,52.3352,124.7105,232722
+101050703,Mohe,漠河,CN,China,中国,Heilongjiang,黑龙江省,Daxing'anling Prefecture,大兴安岭地区,Asia/Shanghai,52.9721,122.5363,232701
+101050704,Huma,呼玛,CN,China,中国,Heilongjiang,黑龙江省,Daxing'anling Prefecture,大兴安岭地区,Asia/Shanghai,51.7270,126.6621,232721
+101050801,Yichun,伊春,CN,China,中国,Heilongjiang,黑龙江省,Yichun,伊春市,Asia/Shanghai,47.7269,128.8993,230700
+101050804,Tieli,铁力,CN,China,中国,Heilongjiang,黑龙江省,Yichun,伊春市,Asia/Shanghai,46.9858,128.0306,230781
+101050805,Jiayin,嘉荫,CN,China,中国,Heilongjiang,黑龙江省,Yichun,伊春市,Asia/Shanghai,48.8914,130.3977,230722
+101050806,Nancha,南岔,CN,China,中国,Heilongjiang,黑龙江省,Yichun,伊春市,Asia/Shanghai,47.1390,129.2836,230726
+101050807,Youhao zone,友好,CN,China,中国,Heilongjiang,黑龙江省,Yichun,伊春市,Asia/Shanghai,47.8543,128.8390,230719
+101050808,Jinlin,金林,CN,China,中国,Heilongjiang,黑龙江省,Yichun,伊春市,Asia/Shanghai,47.4130,129.4288,230751
+101050811,Yimei,伊美,CN,China,中国,Heilongjiang,黑龙江省,Yichun,伊春市,Asia/Shanghai,47.7283,128.9072,230717
+101050813,Wucui,乌翠,CN,China,中国,Heilongjiang,黑龙江省,Yichun,伊春市,Asia/Shanghai,47.7265,128.6695,230718
+101050814,Tangwangxian,汤旺县,CN,China,中国,Heilongjiang,黑龙江省,Yichun,伊春市,Asia/Shanghai,48.4537,129.5722,230723
+101050815,Daqingshan,大箐山县,CN,China,中国,Heilongjiang,黑龙江省,Yichun,伊春市,Asia/Shanghai,47.0275,129.0211,230725
+101050816,Fenglin,丰林,CN,China,中国,Heilongjiang,黑龙江省,Yichun,伊春市,Asia/Shanghai,48.2906,129.5337,230724
+101050901,Daqing,大庆,CN,China,中国,Heilongjiang,黑龙江省,Daqing,大庆市,Asia/Shanghai,46.5907,125.1127,230600
+101050902,Lindian,林甸,CN,China,中国,Heilongjiang,黑龙江省,Daqing,大庆市,Asia/Shanghai,47.1864,124.8777,230623
+101050903,Zhaozhou,肇州,CN,China,中国,Heilongjiang,黑龙江省,Daqing,大庆市,Asia/Shanghai,45.7087,125.2733,230621
+101050904,Zhaoyuan,肇源,CN,China,中国,Heilongjiang,黑龙江省,Daqing,大庆市,Asia/Shanghai,45.5188,125.0820,230622
+101050905,Dorbod,杜尔伯特,CN,China,中国,Heilongjiang,黑龙江省,Daqing,大庆市,Asia/Shanghai,46.8660,124.4463,230624
+101050906,Sartu,萨尔图,CN,China,中国,Heilongjiang,黑龙江省,Daqing,大庆市,Asia/Shanghai,46.5964,125.1146,230602
+101050907,Longfeng,龙凤,CN,China,中国,Heilongjiang,黑龙江省,Daqing,大庆市,Asia/Shanghai,46.5739,125.1458,230603
+101050908,Ranghulu,让胡路,CN,China,中国,Heilongjiang,黑龙江省,Daqing,大庆市,Asia/Shanghai,46.6533,124.8683,230604
+101050909,Honggang,红岗,CN,China,中国,Heilongjiang,黑龙江省,Daqing,大庆市,Asia/Shanghai,46.4030,124.8895,230605
+101050910,Datong,大同,CN,China,中国,Heilongjiang,黑龙江省,Daqing,大庆市,Asia/Shanghai,46.0343,124.8185,230606
+101051001,Xinxing,新兴,CN,China,中国,Heilongjiang,黑龙江省,Qitaihe,七台河市,Asia/Shanghai,45.7943,130.8895,230902
+101051002,Qitaihe,七台河,CN,China,中国,Heilongjiang,黑龙江省,Qitaihe,七台河市,Asia/Shanghai,45.7713,131.0156,230900
+101051003,Boli,勃利,CN,China,中国,Heilongjiang,黑龙江省,Qitaihe,七台河市,Asia/Shanghai,45.7516,130.5750,230921
+101051004,Taoshan,桃山,CN,China,中国,Heilongjiang,黑龙江省,Qitaihe,七台河市,Asia/Shanghai,45.7712,131.0159,230903
+101051005,Qiezihe,茄子河,CN,China,中国,Heilongjiang,黑龙江省,Qitaihe,七台河市,Asia/Shanghai,45.7766,131.0716,230904
+101051101,Jixi,鸡西,CN,China,中国,Heilongjiang,黑龙江省,Jixi,鸡西市,Asia/Shanghai,45.3000,130.9760,230300
+101051102,Hulin,虎林,CN,China,中国,Heilongjiang,黑龙江省,Jixi,鸡西市,Asia/Shanghai,45.7680,132.9739,230381
+101051103,Mishan,密山,CN,China,中国,Heilongjiang,黑龙江省,Jixi,鸡西市,Asia/Shanghai,45.5472,131.8741,230382
+101051104,Jidong,鸡东,CN,China,中国,Heilongjiang,黑龙江省,Jixi,鸡西市,Asia/Shanghai,45.2509,131.1489,230321
+101051105,Jiguan,鸡冠,CN,China,中国,Heilongjiang,黑龙江省,Jixi,鸡西市,Asia/Shanghai,45.3003,130.9744,230302
+101051106,Hengshan,恒山,CN,China,中国,Heilongjiang,黑龙江省,Jixi,鸡西市,Asia/Shanghai,45.2132,130.9106,230303
+101051107,Didao,滴道,CN,China,中国,Heilongjiang,黑龙江省,Jixi,鸡西市,Asia/Shanghai,45.3488,130.8468,230304
+101051108,Lishu,梨树,CN,China,中国,Heilongjiang,黑龙江省,Jixi,鸡西市,Asia/Shanghai,45.0922,130.6978,230305
+101051109,Chengzihe,城子河,CN,China,中国,Heilongjiang,黑龙江省,Jixi,鸡西市,Asia/Shanghai,45.3382,131.0105,230306
+101051110,Mashan,麻山,CN,China,中国,Heilongjiang,黑龙江省,Jixi,鸡西市,Asia/Shanghai,45.2096,130.4811,230307
+101051201,Hegang,鹤岗,CN,China,中国,Heilongjiang,黑龙江省,Hegang,鹤岗市,Asia/Shanghai,47.3321,130.2775,230400
+101051202,Suibin,绥滨,CN,China,中国,Heilongjiang,黑龙江省,Hegang,鹤岗市,Asia/Shanghai,47.2899,131.8605,230422
+101051203,Luobei,萝北,CN,China,中国,Heilongjiang,黑龙江省,Hegang,鹤岗市,Asia/Shanghai,47.5776,130.8291,230421
+101051204,Xiangyang,向阳,CN,China,中国,Heilongjiang,黑龙江省,Hegang,鹤岗市,Asia/Shanghai,47.3454,130.2925,230402
+101051205,Gongnong,工农,CN,China,中国,Heilongjiang,黑龙江省,Hegang,鹤岗市,Asia/Shanghai,47.3317,130.2767,230403
+101051206,Nanshan,南山,CN,China,中国,Heilongjiang,黑龙江省,Hegang,鹤岗市,Asia/Shanghai,47.3132,130.2755,230404
+101051207,Xing'an,兴安,CN,China,中国,Heilongjiang,黑龙江省,Hegang,鹤岗市,Asia/Shanghai,47.2529,130.2362,230405
+101051208,Dongshan,东山,CN,China,中国,Heilongjiang,黑龙江省,Hegang,鹤岗市,Asia/Shanghai,47.3374,130.3171,230406
+101051209,Xingshan,兴山,CN,China,中国,Heilongjiang,黑龙江省,Hegang,鹤岗市,Asia/Shanghai,47.3600,130.3053,230407
+101051301,Shuangyashan,双鸭山,CN,China,中国,Heilongjiang,黑龙江省,Shuangyashan,双鸭山市,Asia/Shanghai,46.6434,131.1573,230500
+101051302,Jixian,集贤,CN,China,中国,Heilongjiang,黑龙江省,Shuangyashan,双鸭山市,Asia/Shanghai,46.7290,131.1393,230521
+101051303,Baoqing,宝清,CN,China,中国,Heilongjiang,黑龙江省,Shuangyashan,双鸭山市,Asia/Shanghai,46.3288,132.2064,230523
+101051304,Raohe,饶河,CN,China,中国,Heilongjiang,黑龙江省,Shuangyashan,双鸭山市,Asia/Shanghai,46.8013,134.0212,230524
+101051305,Youyi,友谊,CN,China,中国,Heilongjiang,黑龙江省,Shuangyashan,双鸭山市,Asia/Shanghai,46.7752,131.8106,230522
+101051306,Jianshan,尖山,CN,China,中国,Heilongjiang,黑龙江省,Shuangyashan,双鸭山市,Asia/Shanghai,46.6430,131.1590,230502
+101051307,Lingdong,岭东,CN,China,中国,Heilongjiang,黑龙江省,Shuangyashan,双鸭山市,Asia/Shanghai,46.5911,131.1637,230503
+101051308,Sifangtai,四方台,CN,China,中国,Heilongjiang,黑龙江省,Shuangyashan,双鸭山市,Asia/Shanghai,46.5943,131.3332,230505
+101051309,Baoshan,宝山,CN,China,中国,Heilongjiang,黑龙江省,Shuangyashan,双鸭山市,Asia/Shanghai,46.5734,131.4043,230506
+101060101,Changchun,长春,CN,China,中国,Jilin,吉林省,Changchun,长春市,Asia/Shanghai,43.8170,125.3236,220100
+101060102,Nong'an,农安,CN,China,中国,Jilin,吉林省,Changchun,长春市,Asia/Shanghai,44.4313,125.1753,220122
+101060103,Dehui,德惠,CN,China,中国,Jilin,吉林省,Changchun,长春市,Asia/Shanghai,44.5339,125.7033,220183
+101060104,Jiutai,九台,CN,China,中国,Jilin,吉林省,Changchun,长春市,Asia/Shanghai,44.1572,125.8447,220113
+101060105,Yushu Prefecture,榆树,CN,China,中国,Jilin,吉林省,Changchun,长春市,Asia/Shanghai,44.8276,126.5501,220182
+101060106,Shuangyang,双阳,CN,China,中国,Jilin,吉林省,Changchun,长春市,Asia/Shanghai,43.5252,125.6590,220112
+101060107,Erdao,二道,CN,China,中国,Jilin,吉林省,Changchun,长春市,Asia/Shanghai,43.8708,125.3847,220105
+101060108,Nanguan,南关,CN,China,中国,Jilin,吉林省,Changchun,长春市,Asia/Shanghai,43.8902,125.3372,220102
+101060109,Kuancheng,宽城,CN,China,中国,Jilin,吉林省,Changchun,长春市,Asia/Shanghai,43.9038,125.3428,220103
+101060110,Chaoyang,朝阳,CN,China,中国,Jilin,吉林省,Changchun,长春市,Asia/Shanghai,43.8649,125.3180,220104
+101060111,Luyuan,绿园,CN,China,中国,Jilin,吉林省,Changchun,长春市,Asia/Shanghai,43.8922,125.2725,220106
+101060201,Jilin,吉林,CN,China,中国,Jilin,吉林省,Jilin,吉林市,Asia/Shanghai,43.8436,126.5530,220200
+101060202,Shulan,舒兰,CN,China,中国,Jilin,吉林省,Jilin,吉林市,Asia/Shanghai,44.4109,126.9478,220283
+101060203,Yongji,永吉,CN,China,中国,Jilin,吉林省,Jilin,吉林市,Asia/Shanghai,43.6674,126.5016,220221
+101060204,Jiaohe,蛟河,CN,China,中国,Jilin,吉林省,Jilin,吉林市,Asia/Shanghai,43.7206,127.3427,220281
+101060205,Panshi,磐石,CN,China,中国,Jilin,吉林省,Jilin,吉林市,Asia/Shanghai,42.9425,126.0599,220284
+101060206,Huadian,桦甸,CN,China,中国,Jilin,吉林省,Jilin,吉林市,Asia/Shanghai,42.9721,126.7454,220282
+101060207,Changyi,昌邑,CN,China,中国,Jilin,吉林省,Jilin,吉林市,Asia/Shanghai,43.8511,126.5708,220202
+101060208,Longtan,龙潭,CN,China,中国,Jilin,吉林省,Jilin,吉林市,Asia/Shanghai,43.9098,126.5614,220203
+101060209,Chuanying,船营,CN,China,中国,Jilin,吉林省,Jilin,吉林市,Asia/Shanghai,43.8438,126.5524,220204
+101060210,Fengman,丰满,CN,China,中国,Jilin,吉林省,Jilin,吉林市,Asia/Shanghai,43.8166,126.5608,220211
+101060301,Yanji,延吉,CN,China,中国,Jilin,吉林省,Yanbian Korean Autonomous Prefecture,延边朝鲜族自治州,Asia/Shanghai,42.9070,129.5158,222401
+101060302,Dunhua,敦化,CN,China,中国,Jilin,吉林省,Yanbian Korean Autonomous Prefecture,延边朝鲜族自治州,Asia/Shanghai,43.3669,128.2299,222403
+101060303,Antu,安图,CN,China,中国,Jilin,吉林省,Yanbian Korean Autonomous Prefecture,延边朝鲜族自治州,Asia/Shanghai,43.1110,128.9019,222426
+101060304,Wangqing,汪清,CN,China,中国,Jilin,吉林省,Yanbian Korean Autonomous Prefecture,延边朝鲜族自治州,Asia/Shanghai,43.3154,129.7662,222424
+101060305,Helong,和龙,CN,China,中国,Jilin,吉林省,Yanbian Korean Autonomous Prefecture,延边朝鲜族自治州,Asia/Shanghai,42.5470,129.0087,222406
+101060306,Yanbian Prefecture,延边,CN,China,中国,Jilin,吉林省,Yanbian Korean Autonomous Prefecture,延边朝鲜族自治州,Asia/Shanghai,42.9048,129.5132,222400
+101060307,Longjing,龙井,CN,China,中国,Jilin,吉林省,Yanbian Korean Autonomous Prefecture,延边朝鲜族自治州,Asia/Shanghai,42.7710,129.4258,222405
+101060308,Hunchun,珲春,CN,China,中国,Jilin,吉林省,Yanbian Korean Autonomous Prefecture,延边朝鲜族自治州,Asia/Shanghai,42.8711,130.3658,222404
+101060309,Tumen,图们,CN,China,中国,Jilin,吉林省,Yanbian Korean Autonomous Prefecture,延边朝鲜族自治州,Asia/Shanghai,42.9666,129.8467,222402
+101060401,Siping,四平,CN,China,中国,Jilin,吉林省,Siping,四平市,Asia/Shanghai,43.1703,124.3708,220300
+101060402,Shuangliao,双辽,CN,China,中国,Jilin,吉林省,Siping,四平市,Asia/Shanghai,43.5183,123.5053,220382
+101060403,Lishu,梨树,CN,China,中国,Jilin,吉林省,Siping,四平市,Asia/Shanghai,43.3083,124.3358,220322
+101060404,Gongzhuling,公主岭,CN,China,中国,Jilin,吉林省,Changchun,长春市,Asia/Shanghai,43.5095,124.8176,220184
+101060405,Yitong,伊通,CN,China,中国,Jilin,吉林省,Siping,四平市,Asia/Shanghai,43.3455,125.3031,220323
+101060406,Tiexi,铁西,CN,China,中国,Jilin,吉林省,Siping,四平市,Asia/Shanghai,43.1763,124.3609,220302
+101060407,Tiedong,铁东,CN,China,中国,Jilin,吉林省,Siping,四平市,Asia/Shanghai,43.1673,124.3885,220303
+101060501,Tonghua,通化,CN,China,中国,Jilin,吉林省,Tonghua,通化市,Asia/Shanghai,41.7212,125.9365,220500
+101060502,Meihekou,梅河口,CN,China,中国,Jilin,吉林省,Tonghua,通化市,Asia/Shanghai,42.5300,125.6873,220581
+101060503,Liuhe,柳河,CN,China,中国,Jilin,吉林省,Tonghua,通化市,Asia/Shanghai,42.2815,125.7405,220524
+101060504,Huinan,辉南,CN,China,中国,Jilin,吉林省,Tonghua,通化市,Asia/Shanghai,42.6835,126.0428,220523
+101060505,Ji'an,集安,CN,China,中国,Jilin,吉林省,Tonghua,通化市,Asia/Shanghai,41.1263,126.1862,220582
+101060506,Tonghua County,通化县,CN,China,中国,Jilin,吉林省,Tonghua,通化市,Asia/Shanghai,41.6779,125.7531,220521
+101060507,Dongchang,东昌,CN,China,中国,Jilin,吉林省,Tonghua,通化市,Asia/Shanghai,41.7212,125.9367,220502
+101060508,Erdaojiang,二道江,CN,China,中国,Jilin,吉林省,Tonghua,通化市,Asia/Shanghai,41.7776,126.0460,220503
+101060601,Baicheng,白城,CN,China,中国,Jilin,吉林省,Baicheng,白城市,Asia/Shanghai,45.6190,122.8411,220800
+101060602,Taonan,洮南,CN,China,中国,Jilin,吉林省,Baicheng,白城市,Asia/Shanghai,45.3391,122.7838,220881
+101060603,Da'an,大安,CN,China,中国,Jilin,吉林省,Baicheng,白城市,Asia/Shanghai,45.5076,124.2915,220882
+101060604,Zhenlai,镇赉,CN,China,中国,Jilin,吉林省,Baicheng,白城市,Asia/Shanghai,45.8461,123.2022,220821
+101060605,Tongyu,通榆,CN,China,中国,Jilin,吉林省,Baicheng,白城市,Asia/Shanghai,44.8092,123.0885,220822
+101060606,Taobei,洮北,CN,China,中国,Jilin,吉林省,Baicheng,白城市,Asia/Shanghai,45.6193,122.8425,220802
+101060701,Liaoyuan,辽源,CN,China,中国,Jilin,吉林省,Liaoyuan,辽源市,Asia/Shanghai,42.9027,125.1453,220400
+101060702,Dongfeng,东丰,CN,China,中国,Jilin,吉林省,Liaoyuan,辽源市,Asia/Shanghai,42.6752,125.5296,220421
+101060703,Dongliao,东辽,CN,China,中国,Jilin,吉林省,Liaoyuan,辽源市,Asia/Shanghai,42.9277,124.9920,220422
+101060704,Longshan,龙山,CN,China,中国,Jilin,吉林省,Liaoyuan,辽源市,Asia/Shanghai,42.9027,125.1452,220402
+101060705,Xi'an,西安,CN,China,中国,Jilin,吉林省,Liaoyuan,辽源市,Asia/Shanghai,42.9204,125.1514,220403
+101060801,Songyuan,松原,CN,China,中国,Jilin,吉林省,Songyuan,松原市,Asia/Shanghai,45.1182,124.8236,220700
+101060802,Qian'an,乾安,CN,China,中国,Jilin,吉林省,Songyuan,松原市,Asia/Shanghai,45.0068,124.0244,220723
+101060803,Qian Gorlos,前郭,CN,China,中国,Jilin,吉林省,Songyuan,松原市,Asia/Shanghai,45.1163,124.8268,220721
+101060804,Changling,长岭,CN,China,中国,Jilin,吉林省,Songyuan,松原市,Asia/Shanghai,44.2766,123.9852,220722
+101060805,Fuyu,扶余,CN,China,中国,Jilin,吉林省,Songyuan,松原市,Asia/Shanghai,44.9862,126.0428,220781
+101060806,Ningjiang,宁江,CN,China,中国,Jilin,吉林省,Songyuan,松原市,Asia/Shanghai,45.1765,124.8279,220702
+101060901,Baishan,白山,CN,China,中国,Jilin,吉林省,Baishan,白山市,Asia/Shanghai,41.9425,126.4278,220600
+101060902,Jingyu,靖宇,CN,China,中国,Jilin,吉林省,Baishan,白山市,Asia/Shanghai,42.3897,126.8084,220622
+101060903,Linjiang,临江,CN,China,中国,Jilin,吉林省,Baishan,白山市,Asia/Shanghai,41.8107,126.9193,220681
+101060905,Changbai,长白,CN,China,中国,Jilin,吉林省,Baishan,白山市,Asia/Shanghai,41.4194,128.2034,220623
+101060906,Fusong,抚松,CN,China,中国,Jilin,吉林省,Baishan,白山市,Asia/Shanghai,42.2210,127.4494,220621
+101060907,Jiangyuan,江源,CN,China,中国,Jilin,吉林省,Baishan,白山市,Asia/Shanghai,42.0481,126.5842,220605
+101060908,Hunjiang,浑江,CN,China,中国,Jilin,吉林省,Baishan,白山市,Asia/Shanghai,41.9431,126.4280,220602
+101070101,Shenyang,沈阳,CN,China,中国,Liaoning,辽宁省,Shenyang,沈阳市,Asia/Shanghai,41.6776,123.4647,210100
+101070102,Hunnan,浑南,CN,China,中国,Liaoning,辽宁省,Shenyang,沈阳市,Asia/Shanghai,41.7419,123.4590,210112
+101070103,Liaozhong,辽中,CN,China,中国,Liaoning,辽宁省,Shenyang,沈阳市,Asia/Shanghai,41.5127,122.7313,210115
+101070104,Kangping,康平,CN,China,中国,Liaoning,辽宁省,Shenyang,沈阳市,Asia/Shanghai,42.7415,123.3527,210123
+101070105,Faku,法库,CN,China,中国,Liaoning,辽宁省,Shenyang,沈阳市,Asia/Shanghai,42.5070,123.4167,210124
+101070106,Xinmin,新民,CN,China,中国,Liaoning,辽宁省,Shenyang,沈阳市,Asia/Shanghai,41.9965,122.8289,210181
+101070107,Heping,和平,CN,China,中国,Liaoning,辽宁省,Shenyang,沈阳市,Asia/Shanghai,41.7881,123.4067,210102
+101070108,Shenhe,沈河,CN,China,中国,Liaoning,辽宁省,Shenyang,沈阳市,Asia/Shanghai,41.7956,123.4457,210103
+101070109,Dadong,大东,CN,China,中国,Liaoning,辽宁省,Shenyang,沈阳市,Asia/Shanghai,41.8085,123.4700,210104
+101070110,Huanggu,皇姑,CN,China,中国,Liaoning,辽宁省,Shenyang,沈阳市,Asia/Shanghai,41.8223,123.4057,210105
+101070111,Tiexi,铁西,CN,China,中国,Liaoning,辽宁省,Shenyang,沈阳市,Asia/Shanghai,41.7878,123.3507,210106
+101070112,Sujiatun,苏家屯,CN,China,中国,Liaoning,辽宁省,Shenyang,沈阳市,Asia/Shanghai,41.6659,123.3416,210111
+101070113,Shenbei New Area,沈北新区,CN,China,中国,Liaoning,辽宁省,Shenyang,沈阳市,Asia/Shanghai,41.9131,123.5842,210113
+101070114,Yuhong,于洪,CN,China,中国,Liaoning,辽宁省,Shenyang,沈阳市,Asia/Shanghai,41.7958,123.3108,210114
+101070201,Dalian,大连,CN,China,中国,Liaoning,辽宁省,Dalian,大连市,Asia/Shanghai,38.9146,121.6186,210200
+101070202,Wafangdian,瓦房店,CN,China,中国,Liaoning,辽宁省,Dalian,大连市,Asia/Shanghai,39.6307,122.0027,210281
+101070203,Jinzhou,金州,CN,China,中国,Liaoning,辽宁省,Dalian,大连市,Asia/Shanghai,39.0527,121.7894,210213
+101070204,Pulandian,普兰店,CN,China,中国,Liaoning,辽宁省,Dalian,大连市,Asia/Shanghai,39.4016,121.9705,210214
+101070205,Lyushunkou,旅顺,CN,China,中国,Liaoning,辽宁省,Dalian,大连市,Asia/Shanghai,38.8120,121.2671,210212
+101070206,Changhai,长海,CN,China,中国,Liaoning,辽宁省,Dalian,大连市,Asia/Shanghai,39.2724,122.5878,210224
+101070207,Zhuanghe,庄河,CN,China,中国,Liaoning,辽宁省,Dalian,大连市,Asia/Shanghai,39.6983,122.9706,210283
+101070208,Zhongshan,中山,CN,China,中国,Liaoning,辽宁省,Dalian,大连市,Asia/Shanghai,38.9216,121.6438,210202
+101070209,Xigang,西岗,CN,China,中国,Liaoning,辽宁省,Dalian,大连市,Asia/Shanghai,38.9143,121.6161,210203
+101070210,Shahekou,沙河口,CN,China,中国,Liaoning,辽宁省,Dalian,大连市,Asia/Shanghai,38.9129,121.5937,210204
+101070211,Ganjingzi,甘井子,CN,China,中国,Liaoning,辽宁省,Dalian,大连市,Asia/Shanghai,38.9530,121.5255,210211
+101070301,Anshan,鞍山,CN,China,中国,Liaoning,辽宁省,Anshan,鞍山市,Asia/Shanghai,41.1106,122.9956,210300
+101070302,Tai'an,台安,CN,China,中国,Liaoning,辽宁省,Anshan,鞍山市,Asia/Shanghai,41.3869,122.4297,210321
+101070303,Xiuyan,岫岩,CN,China,中国,Liaoning,辽宁省,Anshan,鞍山市,Asia/Shanghai,40.2815,123.2883,210323
+101070304,Haicheng,海城,CN,China,中国,Liaoning,辽宁省,Anshan,鞍山市,Asia/Shanghai,40.8826,122.6852,210381
+101070305,Tiedong,铁东,CN,China,中国,Liaoning,辽宁省,Anshan,鞍山市,Asia/Shanghai,41.1103,122.9945,210302
+101070306,Tiexi,铁西,CN,China,中国,Liaoning,辽宁省,Anshan,鞍山市,Asia/Shanghai,41.1107,122.9718,210303
+101070307,Lishan,立山,CN,China,中国,Liaoning,辽宁省,Anshan,鞍山市,Asia/Shanghai,41.1506,123.0248,210304
+101070308,Qianshan,千山,CN,China,中国,Liaoning,辽宁省,Anshan,鞍山市,Asia/Shanghai,41.0689,122.9493,210311
+101070401,Fushun,抚顺,CN,China,中国,Liaoning,辽宁省,Fushun,抚顺市,Asia/Shanghai,41.8813,123.9571,210400
+101070402,Xinbin,新宾,CN,China,中国,Liaoning,辽宁省,Fushun,抚顺市,Asia/Shanghai,41.7325,125.0375,210422
+101070403,Qingyuan,清原,CN,China,中国,Liaoning,辽宁省,Fushun,抚顺市,Asia/Shanghai,42.1013,124.9272,210423
+101070405,Xinfu,新抚,CN,China,中国,Liaoning,辽宁省,Fushun,抚顺市,Asia/Shanghai,41.8608,123.9029,210402
+101070406,Dongzhou,东洲,CN,China,中国,Liaoning,辽宁省,Fushun,抚顺市,Asia/Shanghai,41.8668,124.0472,210403
+101070407,Wanghua,望花,CN,China,中国,Liaoning,辽宁省,Fushun,抚顺市,Asia/Shanghai,41.8518,123.8015,210404
+101070408,Shuncheng,顺城,CN,China,中国,Liaoning,辽宁省,Fushun,抚顺市,Asia/Shanghai,41.8811,123.9172,210411
+101070409,Fushun County,抚顺县,CN,China,中国,Liaoning,辽宁省,Fushun,抚顺市,Asia/Shanghai,41.7301,123.8999,210421
+101070501,Benxi,本溪,CN,China,中国,Liaoning,辽宁省,Benxi,本溪市,Asia/Shanghai,41.4868,123.6850,210500
+101070502,Benxi County,本溪县,CN,China,中国,Liaoning,辽宁省,Benxi,本溪市,Asia/Shanghai,41.3016,124.1196,210521
+101070503,Pingshan,平山,CN,China,中国,Liaoning,辽宁省,Benxi,本溪市,Asia/Shanghai,41.2916,123.7612,210502
+101070504,Huanren,桓仁,CN,China,中国,Liaoning,辽宁省,Benxi,本溪市,Asia/Shanghai,41.2690,125.3592,210522
+101070505,Xihu,溪湖,CN,China,中国,Liaoning,辽宁省,Benxi,本溪市,Asia/Shanghai,41.3301,123.7652,210503
+101070506,Mingshan,明山,CN,China,中国,Liaoning,辽宁省,Benxi,本溪市,Asia/Shanghai,41.3436,123.8618,210504
+101070507,Nanfen,南芬,CN,China,中国,Liaoning,辽宁省,Benxi,本溪市,Asia/Shanghai,41.1041,123.7484,210505
+101070601,Dandong,丹东,CN,China,中国,Liaoning,辽宁省,Dandong,丹东市,Asia/Shanghai,40.0007,124.3544,210600
+101070602,Fengcheng,凤城,CN,China,中国,Liaoning,辽宁省,Dandong,丹东市,Asia/Shanghai,40.4576,124.0711,210682
+101070603,Kuandian,宽甸,CN,China,中国,Liaoning,辽宁省,Dandong,丹东市,Asia/Shanghai,40.7304,124.7849,210624
+101070604,Donggang,东港,CN,China,中国,Liaoning,辽宁省,Dandong,丹东市,Asia/Shanghai,39.8835,124.1494,210681
+101070605,Yuanbao,元宝,CN,China,中国,Liaoning,辽宁省,Dandong,丹东市,Asia/Shanghai,40.1365,124.3978,210602
+101070606,Zhenxing,振兴,CN,China,中国,Liaoning,辽宁省,Dandong,丹东市,Asia/Shanghai,40.1028,124.3612,210603
+101070607,Zhen'an,振安,CN,China,中国,Liaoning,辽宁省,Dandong,丹东市,Asia/Shanghai,40.2015,124.4700,210604
+101070701,Jinzhou,锦州,CN,China,中国,Liaoning,辽宁省,Jinzhou,锦州市,Asia/Shanghai,41.1193,121.1357,210700
+101070702,Linghai,凌海,CN,China,中国,Liaoning,辽宁省,Jinzhou,锦州市,Asia/Shanghai,41.1717,121.3642,210781
+101070703,Guta,古塔,CN,China,中国,Liaoning,辽宁省,Jinzhou,锦州市,Asia/Shanghai,41.1157,121.1301,210702
+101070704,Yi County,义县,CN,China,中国,Liaoning,辽宁省,Jinzhou,锦州市,Asia/Shanghai,41.5372,121.2428,210727
+101070705,Heishan,黑山,CN,China,中国,Liaoning,辽宁省,Jinzhou,锦州市,Asia/Shanghai,41.6918,122.1179,210726
+101070706,Beizhen,北镇,CN,China,中国,Liaoning,辽宁省,Jinzhou,锦州市,Asia/Shanghai,41.5988,121.7960,210782
+101070707,Linghe,凌河,CN,China,中国,Liaoning,辽宁省,Jinzhou,锦州市,Asia/Shanghai,41.1147,121.1513,210703
+101070708,Taihe,太和,CN,China,中国,Liaoning,辽宁省,Jinzhou,锦州市,Asia/Shanghai,41.1054,121.1073,210711
+101070801,Yingkou,营口,CN,China,中国,Liaoning,辽宁省,Yingkou,营口市,Asia/Shanghai,40.6674,122.2352,210800
+101070802,Dashiqiao,大石桥,CN,China,中国,Liaoning,辽宁省,Yingkou,营口市,Asia/Shanghai,40.6340,122.5059,210882
+101070803,Gaizhou,盖州,CN,China,中国,Liaoning,辽宁省,Yingkou,营口市,Asia/Shanghai,40.4052,122.3555,210881
+101070804,Zhanqian,站前,CN,China,中国,Liaoning,辽宁省,Yingkou,营口市,Asia/Shanghai,40.6699,122.2532,210802
+101070805,Xishi,西市,CN,China,中国,Liaoning,辽宁省,Yingkou,营口市,Asia/Shanghai,40.6631,122.2101,210803
+101070806,Bayuquan,鲅鱼圈,CN,China,中国,Liaoning,辽宁省,Yingkou,营口市,Asia/Shanghai,40.2636,122.1272,210804
+101070807,Laobian,老边,CN,China,中国,Liaoning,辽宁省,Yingkou,营口市,Asia/Shanghai,40.6713,122.3080,210811
+101070901,Fuxin,阜新,CN,China,中国,Liaoning,辽宁省,Fuxin,阜新市,Asia/Shanghai,42.0220,121.6701,210900
+101070902,Zhangwu,彰武,CN,China,中国,Liaoning,辽宁省,Fuxin,阜新市,Asia/Shanghai,42.3848,122.5374,210922
+101070903,Haizhou,海州,CN,China,中国,Liaoning,辽宁省,Fuxin,阜新市,Asia/Shanghai,42.0112,121.6576,210902
+101070904,Xinqiu,新邱,CN,China,中国,Liaoning,辽宁省,Fuxin,阜新市,Asia/Shanghai,42.0866,121.7905,210903
+101070905,Taiping,太平,CN,China,中国,Liaoning,辽宁省,Fuxin,阜新市,Asia/Shanghai,42.0111,121.6776,210904
+101070906,Qinghemen,清河门,CN,China,中国,Liaoning,辽宁省,Fuxin,阜新市,Asia/Shanghai,41.7805,121.4202,210905
+101070907,Xihe,细河,CN,China,中国,Liaoning,辽宁省,Fuxin,阜新市,Asia/Shanghai,42.0192,121.6548,210911
+101070908,Fuxin County,阜新县,CN,China,中国,Liaoning,辽宁省,Fuxin,阜新市,Asia/Shanghai,42.0652,121.7579,210921
+101071001,Liaoyang,辽阳,CN,China,中国,Liaoning,辽宁省,Liaoyang,辽阳市,Asia/Shanghai,41.2694,123.1815,211000
+101071002,Liaoyang,辽阳县,CN,China,中国,Liaoning,辽宁省,Liaoyang,辽阳市,Asia/Shanghai,41.2165,123.0797,211021
+101071003,Dengta,灯塔,CN,China,中国,Liaoning,辽宁省,Liaoyang,辽阳市,Asia/Shanghai,41.4278,123.3259,211081
+101071004,Gongchangling,弓长岭,CN,China,中国,Liaoning,辽宁省,Liaoyang,辽阳市,Asia/Shanghai,41.1578,123.4316,211005
+101071005,Baita,白塔,CN,China,中国,Liaoning,辽宁省,Liaoyang,辽阳市,Asia/Shanghai,41.2704,123.1743,211002
+101071006,Wensheng,文圣,CN,China,中国,Liaoning,辽宁省,Liaoyang,辽阳市,Asia/Shanghai,41.2824,123.2313,211003
+101071007,Hongwei,宏伟,CN,China,中国,Liaoning,辽宁省,Liaoyang,辽阳市,Asia/Shanghai,41.2057,123.2005,211004
+101071008,Taizihe,太子河,CN,China,中国,Liaoning,辽宁省,Liaoyang,辽阳市,Asia/Shanghai,41.2950,123.1814,211011
+101071101,Tieling,铁岭,CN,China,中国,Liaoning,辽宁省,Tieling,铁岭市,Asia/Shanghai,42.2233,123.7257,211200
+101071102,Kaiyuan,开原,CN,China,中国,Liaoning,辽宁省,Tieling,铁岭市,Asia/Shanghai,42.5421,124.0455,211282
+101071103,Changtu,昌图,CN,China,中国,Liaoning,辽宁省,Tieling,铁岭市,Asia/Shanghai,42.7844,124.1102,211224
+101071104,Xifeng,西丰,CN,China,中国,Liaoning,辽宁省,Tieling,铁岭市,Asia/Shanghai,42.7381,124.7233,211223
+101071105,Diaobingshan,调兵山,CN,China,中国,Liaoning,辽宁省,Tieling,铁岭市,Asia/Shanghai,42.4507,123.5454,211281
+101071106,Yinzhou,银州,CN,China,中国,Liaoning,辽宁省,Tieling,铁岭市,Asia/Shanghai,42.2923,123.8449,211202
+101071107,Qinghe,清河,CN,China,中国,Liaoning,辽宁省,Tieling,铁岭市,Asia/Shanghai,42.5430,124.1490,211204
+101071108,Tieling County,铁岭县,CN,China,中国,Liaoning,辽宁省,Tieling,铁岭市,Asia/Shanghai,42.2234,123.7290,211221
+101071201,Chaoyang,朝阳,CN,China,中国,Liaoning,辽宁省,Chaoyang,朝阳市,Asia/Shanghai,41.5768,120.4512,211300
+101071202,Shuangta,双塔,CN,China,中国,Liaoning,辽宁省,Chaoyang,朝阳市,Asia/Shanghai,41.5794,120.4488,211302
+101071203,Lingyuan,凌源,CN,China,中国,Liaoning,辽宁省,Chaoyang,朝阳市,Asia/Shanghai,41.2431,119.4048,211382
+101071204,Kazuo,喀左,CN,China,中国,Liaoning,辽宁省,Chaoyang,朝阳市,Asia/Shanghai,41.1282,119.7412,211324
+101071205,Beipiao,北票,CN,China,中国,Liaoning,辽宁省,Chaoyang,朝阳市,Asia/Shanghai,41.8033,120.7670,211381
+101071206,Longcheng,龙城,CN,China,中国,Liaoning,辽宁省,Chaoyang,朝阳市,Asia/Shanghai,41.5767,120.4134,211303
+101071207,Jianping,建平县,CN,China,中国,Liaoning,辽宁省,Chaoyang,朝阳市,Asia/Shanghai,41.4026,119.6424,211322
+101071208,Chaoyang County,朝阳县,CN,China,中国,Liaoning,辽宁省,Chaoyang,朝阳市,Asia/Shanghai,41.4978,120.3899,211321
+101071301,Panjin,盘锦,CN,China,中国,Liaoning,辽宁省,Panjin,盘锦市,Asia/Shanghai,40.7196,122.1707,211100
+101071302,Dawa,大洼,CN,China,中国,Liaoning,辽宁省,Panjin,盘锦市,Asia/Shanghai,40.9944,122.0717,211104
+101071303,Panshan,盘山,CN,China,中国,Liaoning,辽宁省,Panjin,盘锦市,Asia/Shanghai,41.2407,121.9853,211122
+101071304,Shuangtaizi,双台子,CN,China,中国,Liaoning,辽宁省,Panjin,盘锦市,Asia/Shanghai,41.1904,122.0557,211102
+101071305,Xinglongtai,兴隆台,CN,China,中国,Liaoning,辽宁省,Panjin,盘锦市,Asia/Shanghai,41.1224,122.0716,211103
+101071401,Huludao,葫芦岛,CN,China,中国,Liaoning,辽宁省,Huludao,葫芦岛市,Asia/Shanghai,40.7110,120.8368,211400
+101071402,Jianchang,建昌,CN,China,中国,Liaoning,辽宁省,Huludao,葫芦岛市,Asia/Shanghai,40.8129,119.8078,211422
+101071403,Suizhong,绥中,CN,China,中国,Liaoning,辽宁省,Huludao,葫芦岛市,Asia/Shanghai,40.3284,120.3421,211421
+101071404,Xingcheng,兴城,CN,China,中国,Liaoning,辽宁省,Huludao,葫芦岛市,Asia/Shanghai,40.6194,120.7294,211481
+101071405,Lianshan,连山,CN,China,中国,Liaoning,辽宁省,Huludao,葫芦岛市,Asia/Shanghai,40.7551,120.8594,211402
+101071406,Longgang,龙港,CN,China,中国,Liaoning,辽宁省,Huludao,葫芦岛市,Asia/Shanghai,40.7357,120.8941,211403
+101071407,Nanpiao,南票,CN,China,中国,Liaoning,辽宁省,Huludao,葫芦岛市,Asia/Shanghai,41.0988,120.7523,211404
+101080101,Hohhot,呼和浩特,CN,China,中国,Inner Mongolia Autonomous Region,内蒙古自治区,Hohhot,呼和浩特市,Asia/Shanghai,40.8421,111.7488,150100
+101080102,Tumed Left Banner,土左旗,CN,China,中国,Inner Mongolia Autonomous Region,内蒙古自治区,Hohhot,呼和浩特市,Asia/Shanghai,40.7290,111.1637,150121
+101080103,Togtoh,托克托,CN,China,中国,Inner Mongolia Autonomous Region,内蒙古自治区,Hohhot,呼和浩特市,Asia/Shanghai,40.2777,111.1939,150122
+101080104,Horinger,和林,CN,China,中国,Inner Mongolia Autonomous Region,内蒙古自治区,Hohhot,呼和浩特市,Asia/Shanghai,40.3803,111.8241,150123
+101080105,Qingshuihe,清水河,CN,China,中国,Inner Mongolia Autonomous Region,内蒙古自治区,Hohhot,呼和浩特市,Asia/Shanghai,39.9125,111.6722,150124
+101080106,SaiHan,赛罕,CN,China,中国,Inner Mongolia Autonomous Region,内蒙古自治区,Hohhot,呼和浩特市,Asia/Shanghai,40.8078,111.6985,150105
+101080107,Wuchuan,武川,CN,China,中国,Inner Mongolia Autonomous Region,内蒙古自治区,Hohhot,呼和浩特市,Asia/Shanghai,41.0945,111.4566,150125
+101080108,Xincheng,新城,CN,China,中国,Inner Mongolia Autonomous Region,内蒙古自治区,Hohhot,呼和浩特市,Asia/Shanghai,40.8262,111.6860,150102
+101080109,Huimin,回民,CN,China,中国,Inner Mongolia Autonomous Region,内蒙古自治区,Hohhot,呼和浩特市,Asia/Shanghai,40.8151,111.6622,150103
+101080110,Yuquan,玉泉,CN,China,中国,Inner Mongolia Autonomous Region,内蒙古自治区,Hohhot,呼和浩特市,Asia/Shanghai,40.7531,111.6742,150104
+101080201,Baotou,包头,CN,China,中国,Inner Mongolia Autonomous Region,内蒙古自治区,Baotou,包头市,Asia/Shanghai,40.6213,109.9532,150200
+101080202,Bayan Obo Mining District,白云鄂博,CN,China,中国,Inner Mongolia Autonomous Region,内蒙古自治区,Baotou,包头市,Asia/Shanghai,41.7692,109.9702,150206
+101080204,Tumd Right Banner,土右旗,CN,China,中国,Inner Mongolia Autonomous Region,内蒙古自治区,Baotou,包头市,Asia/Shanghai,40.5783,110.5278,150221
+101080205,Guyang,固阳,CN,China,中国,Inner Mongolia Autonomous Region,内蒙古自治区,Baotou,包头市,Asia/Shanghai,41.0300,110.0634,150222
+101080206,Darhan Muminggan United Banner,达茂旗,CN,China,中国,Inner Mongolia Autonomous Region,内蒙古自治区,Baotou,包头市,Asia/Shanghai,41.6990,110.4326,150223
+101080208,Donghe,东河,CN,China,中国,Inner Mongolia Autonomous Region,内蒙古自治区,Baotou,包头市,Asia/Shanghai,40.5871,110.0269,150202
+101080209,Hondlon,昆都仑,CN,China,中国,Inner Mongolia Autonomous Region,内蒙古自治区,Baotou,包头市,Asia/Shanghai,40.6613,109.8229,150203
+101080210,Qingshan,青山,CN,China,中国,Inner Mongolia Autonomous Region,内蒙古自治区,Baotou,包头市,Asia/Shanghai,40.6686,109.8801,150204
+101080211,Shiguai,石拐,CN,China,中国,Inner Mongolia Autonomous Region,内蒙古自治区,Baotou,包头市,Asia/Shanghai,40.6767,110.0608,150205
+101080212,Jiuyuan,九原,CN,China,中国,Inner Mongolia Autonomous Region,内蒙古自治区,Baotou,包头市,Asia/Shanghai,40.6006,109.9681,150207
+101080301,Wuhai,乌海,CN,China,中国,Inner Mongolia Autonomous Region,内蒙古自治区,Wuhai,乌海市,Asia/Shanghai,39.6737,106.8256,150300
+101080302,Haibowan,海勃湾,CN,China,中国,Inner Mongolia Autonomous Region,内蒙古自治区,Wuhai,乌海市,Asia/Shanghai,39.6735,106.8178,150302
+101080303,Hainan Prefecture,海南,CN,China,中国,Inner Mongolia Autonomous Region,内蒙古自治区,Wuhai,乌海市,Asia/Shanghai,39.4415,106.8848,150303
