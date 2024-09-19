@@ -3,15 +3,50 @@ import { dialog } from 'electron'
 import schedule from 'node-schedule'
 import path from 'node:path'
 import {cityMap} from './utils.js'
+import fs from "fs";
+import {parse} from "csv-parse";
+import {finished} from "stream/promises";
 
-
+//全局变量
 const QWetherBaseURL = "https://devapi.qweather.com/v7/weather/now?"
 let cityID = "101281009" //湛江
+let cityName = null
 let APIKey = ""
 let targetURL = ""
 let weatherData = null
 let periodRule = '1/15 * * * * *' //秒分时日月周
 let job1 = "" //定时任务1
+//一些静态文件地址
+let str = path.join(path.dirname(new URL(import.meta.url).pathname), 'preload.js')
+str = str.slice(1)
+let csvFile = path.join(path.dirname(new URL('.',import.meta.url).pathname), 'China-City-List-latest.csv')
+csvFile = csvFile.slice(1)
+
+
+//加载城市地图字典
+
+const processFile = async () => {
+    let cityM = new Map();
+    const parser = fs
+        .createReadStream(csvFile, { encoding: 'utf8'})
+        .pipe(parse({
+            // CSV options if any
+            skip_empty_lines:true,
+            columns:true,
+            trim:true
+        }));
+    parser.on('readable', function(){
+        let record; while ((record = parser.read()) !== null) {
+            // Work with each record
+            cityM.set(record.Location_Name_ZH,record.Location_ID)
+        }
+    });
+    await finished(parser);
+    return cityM;
+};
+// Get parsed the CSV content
+const cityMap1 = await processFile();
+
 
 //发送 HTTP 请求并返回天气数据
 function fetchUrl(targetURL) {
@@ -28,15 +63,13 @@ function fetchUrl(targetURL) {
 
 //创建主窗口
 function createWindow() {
-    let str = path.join(path.dirname(new URL(import.meta.url).pathname), 'preload.js')
-    str = str.slice(1)
+
     const mainWindow = new BrowserWindow({
         webPreferences: {
             preload: str
         }
     })
 
-        console.log(str)
         job1 = schedule.scheduleJob("weather", periodRule, () => {
         targetURL = `${QWetherBaseURL}location=${cityID}&key=${APIKey}`
 
@@ -45,8 +78,11 @@ function createWindow() {
             return
         }
 
-        const key = "CityID"
-        weatherData[key] = cityID
+        const key1 = "CityID"
+        const key2 = "City"
+        weatherData[key1] = cityID
+        weatherData[key2] = cityName
+
         mainWindow.webContents.send('update-weather', weatherData)
         console.log(weatherData)
 
@@ -74,7 +110,7 @@ app.whenReady().then(createWindow)
 
 //开启监听渲染进程发过来的信息
 ipcMain.on('city-id', (_event, value) => {
-    if (!cityMap[value]){
+    if (!cityMap1.get(value)){
         dialog.showMessageBox({
             type:'info',
             title: '提示',
@@ -86,7 +122,8 @@ ipcMain.on('city-id', (_event, value) => {
             }
         })
         }else{
-            cityID = cityMap[value]
+            cityID = cityMap1.get(value)
+            cityName = value
         }
     console.log(value)
 })

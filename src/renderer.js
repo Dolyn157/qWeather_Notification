@@ -1,16 +1,16 @@
 
 // 相应主进程发送过来的指令
 window.electronAPI.onUpdateWeather((value) => {
-    const Noti_Title = '和风天气提醒您：\n'
-
     const cityID = value.CityID
+    const Noti_Title = `和风天气提醒您 ${cityID}：`
+    const cityName = value.City
     const obsTime = value.now.obsTime
     const temp = value.now.temp
     const text = value.now.text
     const windDir = value.now.windDir
     const windScale = value.now.windScale
 
-    new window.Notification(Noti_Title, { body: `\n地区：${cityID}, \n"采样时间": ${obsTime}, "\n温度℃": ${temp}, "\n天气状况": ${text}, "\n风向":${windDir}, "\n风力等级":${windScale}`})
+    new window.Notification(Noti_Title, { body: `\n地区名称：${cityName}, \n"采样时间": ${obsTime}, "\n温度℃": ${temp}, "\n天气状况": ${text}, "\n风向":${windDir}, "\n风力等级":${windScale}`})
 })
 
 window.electronAPI.onLoadComplete((value) => {
